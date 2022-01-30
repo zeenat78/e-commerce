@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 function App() {
   return (
     <div>
-      <h1>hello frontend</h1>
+      <h1>hello </h1>
     </div>
   );
 }
